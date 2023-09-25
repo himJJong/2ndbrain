@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ea4eb150a989d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test/test2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "test/test2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "test/test2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "test/test2.md"
               }
             }
           }
@@ -159,9 +171,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d8cc3cdc31bccc05",
+  "active": "3ea4eb150a989d49",
   "lastOpenFiles": [
-    "README.md",
-    "test.md"
+    "무제 파일.md",
+    "test/test2.md",
+    "test.md",
+    "test",
+    "README.md"
   ]
 }
