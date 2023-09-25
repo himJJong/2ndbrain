@@ -35,12 +35,8 @@
             "id": "3ea4eb150a989d49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test/test2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/test2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/test2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test/test2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,8 +165,8 @@
   },
   "active": "3ea4eb150a989d49",
   "lastOpenFiles": [
-    "무제 파일.md",
     "test/test2.md",
+    "무제 파일.md",
     "test.md",
     "test",
     "README.md"
