@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Spring Data Jpa/Eager vs Lazy.md",
+                "file": "Interview/Spring Data Jpa/N+1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Spring Data Jpa/Eager vs Lazy.md",
+                "file": "Interview/Spring Data Jpa/N+1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Spring Data Jpa/Eager vs Lazy.md",
+                "file": "Interview/Spring Data Jpa/N+1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Spring Data Jpa/Eager vs Lazy.md"
+                "file": "Interview/Spring Data Jpa/N+1.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "3ea4eb150a989d49",
   "lastOpenFiles": [
-    "Interview/etc/etc.md",
     "Interview/Spring Data Jpa/Spring Data Jpa.md",
+    "Interview/Spring Data Jpa/N+1.md",
     "Interview/Spring Data Jpa/Eager vs Lazy.md",
+    "Interview/etc/etc.md",
     "Interview/Spring Boot/Spring Boot.md",
     "Interview/Interview.md",
     "Interview/Java/Java.md",
