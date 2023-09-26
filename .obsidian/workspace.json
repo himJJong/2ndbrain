@@ -162,8 +162,9 @@
   "active": "3ea4eb150a989d49",
   "lastOpenFiles": [
     "Interview/Spring Data Jpa/Spring Data Jpa.md",
-    "Interview/Spring Data Jpa/N+1.md",
     "Interview/Spring Data Jpa/Eager vs Lazy.md",
+    "Interview/Spring Data Jpa/페이징 쿼리.md",
+    "Interview/Spring Data Jpa/N+1.md",
     "Interview/etc/etc.md",
     "Interview/Spring Boot/Spring Boot.md",
     "Interview/Interview.md",
