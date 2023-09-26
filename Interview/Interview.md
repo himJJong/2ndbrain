@@ -6,8 +6,8 @@
 [[Spring Data Jpa]]
 
 ## Java
-
+[[Java]]
 
 
 ## etc
-[[SQL Injection]]
+[[etc]]
