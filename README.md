@@ -1,1 +1,1 @@
-# 2ndbrain
+# 2ndbrain Note

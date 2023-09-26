@@ -20,27 +20,19 @@
             }
           },
           {
-            "id": "d8cc3cdc31bccc05",
+            "id": "3ea4eb150a989d49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Interview/etc/SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ea4eb150a989d49",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b1b48fed4dfb49e0",
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Interview/etc/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Interview/etc/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Interview/etc/SQL Injection.md"
               }
             }
           }
@@ -169,10 +161,11 @@
   },
   "active": "3ea4eb150a989d49",
   "lastOpenFiles": [
-    "test/test2.md",
-    "무제 파일.md",
+    "Interview/etc/SQL Injection.md",
+    "README.md",
     "test.md",
-    "test",
-    "README.md"
+    "Interview/etc",
+    "무제 파일.md",
+    "Interview"
   ]
 }
