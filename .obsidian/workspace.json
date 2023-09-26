@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +160,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3ea4eb150a989d49",
+  "active": "f49d4feef2e70e5d",
   "lastOpenFiles": [
     "Interview/Spring Data Jpa/Spring Data Jpa.md",
     "Interview/Spring Data Jpa/Eager vs Lazy.md",
