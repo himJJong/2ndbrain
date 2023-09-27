@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "52e0f3c1c4460473",
+        "id": "8b4709b728d1a26b",
         "type": "tabs",
         "children": [
           {
-            "id": "72ede886fdcb22da",
+            "id": "faab288a2d2cd4c5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Interview/DDD/DDD.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interview/DDD/DDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Interview/DDD/DDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Interview/DDD/DDD.md"
+              }
             }
           }
         ]
@@ -138,26 +146,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "72ede886fdcb22da",
+  "active": "faab288a2d2cd4c5",
   "lastOpenFiles": [
-    "README.md",
-    "Interview/Spring Boot/Spring Boot.md",
-    "2023-09-28.md",
-    "스크린샷 2023-09-28 오전 1.15.40.png",
-    "무제 파일.canvas",
+    "Interview/Interview.md",
+    "Interview/DDD/DDD.md",
     "Algorithm/류호석/브루트포스.md",
-    "Algorithm/류호석",
-    "Algorithm",
+    "Interview/DDD",
+    "Interview/etc/etc.md",
+    "Interview/etc/SQL Injection.md",
+    "Interview/Java/Java.md",
+    "Interview/Spring Boot/Spring Boot.md",
+    "Interview/Spring Data Jpa/페이징 쿼리.md",
     "Interview/Spring Data Jpa/N+1.md",
     "Interview/Spring Data Jpa/Spring Data Jpa.md",
     "Interview/Spring Data Jpa/Eager vs Lazy.md",
-    "Interview/Spring Data Jpa/페이징 쿼리.md",
-    "Interview/etc/etc.md",
-    "Interview/Interview.md",
-    "Interview/Java/Java.md",
+    "README.md",
+    "2023-09-28.md",
+    "스크린샷 2023-09-28 오전 1.15.40.png",
+    "무제 파일.canvas",
+    "Algorithm/류호석",
+    "Algorithm",
     "Interview/Java",
     "Interview/Spring Data Jpa",
-    "Interview/etc/SQL Injection.md",
     "Interview/Spring Boot",
     "test.md",
     "Interview/etc",
