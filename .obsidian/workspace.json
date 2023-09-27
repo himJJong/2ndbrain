@@ -11,28 +11,11 @@
             "id": "72ede886fdcb22da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ea4eb150a989d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-09-28.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-09-28.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,11 +138,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3ea4eb150a989d49",
+  "active": "72ede886fdcb22da",
   "lastOpenFiles": [
+    "README.md",
+    "Interview/Spring Boot/Spring Boot.md",
+    "2023-09-28.md",
     "스크린샷 2023-09-28 오전 1.15.40.png",
     "무제 파일.canvas",
-    "2023-09-28.md",
     "Algorithm/류호석/브루트포스.md",
     "Algorithm/류호석",
     "Algorithm",
@@ -172,14 +153,12 @@
     "Interview/Spring Data Jpa/Eager vs Lazy.md",
     "Interview/Spring Data Jpa/페이징 쿼리.md",
     "Interview/etc/etc.md",
-    "Interview/Spring Boot/Spring Boot.md",
     "Interview/Interview.md",
     "Interview/Java/Java.md",
     "Interview/Java",
     "Interview/Spring Data Jpa",
     "Interview/etc/SQL Injection.md",
     "Interview/Spring Boot",
-    "README.md",
     "test.md",
     "Interview/etc",
     "무제 파일.md",
