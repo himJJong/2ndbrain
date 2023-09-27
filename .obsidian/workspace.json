@@ -23,12 +23,8 @@
             "id": "3ea4eb150a989d49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/Spring Data Jpa/N+1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -99,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Spring Data Jpa/N+1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Spring Data Jpa/N+1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Spring Data Jpa/N+1.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,12 +156,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f49d4feef2e70e5d",
+  "active": "3ea4eb150a989d49",
   "lastOpenFiles": [
+    "Interview/Spring Data Jpa/N+1.md",
     "Interview/Spring Data Jpa/Spring Data Jpa.md",
     "Interview/Spring Data Jpa/Eager vs Lazy.md",
     "Interview/Spring Data Jpa/페이징 쿼리.md",
-    "Interview/Spring Data Jpa/N+1.md",
     "Interview/etc/etc.md",
     "Interview/Spring Boot/Spring Boot.md",
     "Interview/Interview.md",
