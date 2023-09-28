@@ -11,12 +11,8 @@
             "id": "faab288a2d2cd4c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/DDD/DDD.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/DDD/DDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/DDD/DDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interview/DDD/DDD.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,8 @@
   },
   "active": "faab288a2d2cd4c5",
   "lastOpenFiles": [
-    "Interview/Interview.md",
     "Interview/DDD/DDD.md",
+    "Interview/Interview.md",
     "Algorithm/류호석/브루트포스.md",
     "Interview/DDD",
     "Interview/etc/etc.md",
